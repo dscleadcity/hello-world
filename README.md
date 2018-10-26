@@ -2,6 +2,6 @@
 
 * Usheninte Dangana ([@Usheninte](https://github.com/Usheninte))  
 * James Uche ()  
-* Marvelous Oladimeji ()  
+* Marvelous Oladimeji  ([@emi-marfe](https://github.com/emi-marfe))   
 * Komboye Samuel ([@komboye](https://github.com/komboye))    
 * Iyere Etiosa ([@jtmanagers](https://github.com/jtmanagers))  
